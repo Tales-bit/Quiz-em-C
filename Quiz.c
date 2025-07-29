@@ -63,7 +63,7 @@ int main(){
             }
             break;
         }else if(r=='n' || r=='N'){
-            printf("Ok, ate uma proxima vez!");
+            printf("Ok, ate uma proxima vez!\n");
             break;
         }else {
             printf("Erro, por favor, selecione 's' para sim, ou 'n' para nao\n\n");
