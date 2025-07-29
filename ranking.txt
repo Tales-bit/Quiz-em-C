@@ -1,0 +1,14 @@
+Nome: Tales
+Acertos: 1
+Nome: Ronaldo
+Acertos: 3
+Nome: t
+Acertos: 1
+Nome: t
+Acertos: 1
+Nome: t
+Acertos: 1
+Nome: t
+Acertos: 1
+Nome: ttt
+Acertos: 3
