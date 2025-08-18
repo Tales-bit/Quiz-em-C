@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 char resposta;
 int acertos=0;
